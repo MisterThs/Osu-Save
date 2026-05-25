@@ -48,6 +48,10 @@ Built‑in update checker that compares your version with the latest GitHub rele
 ### 🎨 Clean dark UI  
 Inspired by osu!lazer.
 
+<p align="center">
+  <img src="assets/screenshot.png" width="600" alt="Osu Save Screenshot">
+</p>
+
 ---
 
 ## 📥 Installation
