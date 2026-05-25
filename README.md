@@ -9,6 +9,12 @@ Created by **MisterThs**
 Osu Save is a modern desktop tool that helps you manage your osu! beatmaps with ease.  
 It automatically downloads your **most played beatmapsets**, verifies your existing files, repairs corrupted maps, and keeps everything synced.
 
+# Osu Save
+
+![Version](https://img.shields.io/github/v/release/MisterThs/Osu-Save)
+![Downloads](https://img.shields.io/github/downloads/MisterThs/Osu-Save/total)
+![License](https://img.shields.io/github/license/MisterThs/Osu-Save)
+
 ---
 
 ## 🚀 Features
