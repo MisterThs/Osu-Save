@@ -1,0 +1,37 @@
+
+---
+
+## 🛠 Requirements
+- Python 3.10+
+- `requests`
+- `tkinter` (included with Python)
+- `zipfile` (included with Python)
+
+---
+
+## 🧪 Integrity Checker
+The **Verify existing files** button will:
+
+- Scan all `.osz` files  
+- Remove missing files from the manifest  
+- Detect corrupted files  
+- Automatically re-download them  
+- Update the manifest  
+
+---
+
+## 🔧 Configuration
+
+### Thread count  
+Adjustable slider (1–16 threads).
+
+### Mirror priority  
+Drag mirrors up/down in the settings window.
+
+### Auto-import  
+Automatically opens `.osz` files after download.
+
+---
+
+## 🔄 Update Checker
+The app checks:
